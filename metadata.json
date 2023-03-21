@@ -1,13 +1,15 @@
 {
-    "display_name": "",
-    "command": "",
+    "display_name": "PDF text and table extraction",
+    "command": "generate",
     "dependencies": [],
 
-    "keywords": [],
-    "methodology": [],
+    "keywords": ["pdf", "extraction"],
+    "methodology": ["Data scraping and parsing"],
     "topic": [],
 
-    "description": "",
-    "author": "",
-    "author_email": ""
+    "description": "Provides methods for extracting text and tables from text-based PDF. Currently does not provide OCR based methods for non-text based PDFs",
+    "author": "Daniel Wang",
+    "author_email": "daniel.wang@oliverwyman.com",
+
+    "read_more_link": "https://github.com/ow-gryphon/gryphon-pdf-data-extraction"
 }
