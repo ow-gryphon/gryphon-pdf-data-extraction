@@ -1,7 +1,7 @@
 {
     "display_name": "PDF text and table extraction",
     "command": "generate",
-    "dependencies": [],
+    "dependencies": ["pandas", "matplotlib", "camelot-py", "opencv-python", "ghostscript", "pdfplumber", "PyPDF2", "PyMuPDF"],
 
     "keywords": ["pdf", "extraction"],
     "methodology": ["Data scraping and parsing"],

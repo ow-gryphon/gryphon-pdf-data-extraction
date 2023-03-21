@@ -1,8 +1,0 @@
-matplotlib
-pandas
-camelot-py
-opencv-python # Used for camelot-py
-ghostscript
-pdfplumber
-PyPDF2
-PyMuPDF
