@@ -1,4 +1,5 @@
 [Basic methods for PDF data extraction](https://github.com/ow-gryphon/gryphon-pdf-data-extraction/blob/main/template/notebooks/data_extraction/%5Btemplate%5D%20Basic%20PDF%20text%20and%20table%20extraction.ipynb)
+
 [Advanced methods for PDF data extraction](https://github.com/ow-gryphon/gryphon-pdf-data-extraction/blob/main/template/notebooks/data_extraction/%5Btemplate%5D%20Advanced%20PDF%20table%20extraction%20example%20with%20pdfplumber.ipynb): Particularly useful for cases where multiple tables can be on one page, or tables spanning multiple pages.
 
 
